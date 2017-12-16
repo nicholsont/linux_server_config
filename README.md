@@ -4,13 +4,13 @@ Linux server set up for the [Catalog App](https://github.com/nicholsont/catalog_
 ## ssh 
 Connects to the server via ssh.
 ```
-ssh grader@54.191.170.104 -p 2200
+ssh grader@54.191.58.90 -p 2200
 ```
 
 ## Application URL
 Access Catalog App with ip address
 ```
-http://54.191.170.104
+http://54.191.58.90
 ```
 
 ## Installation
